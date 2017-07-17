@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1085623877620",
+    "firebase_url": "https://cartoon-and-rosoom.firebaseio.com",
+    "project_id": "cartoon-and-rosoom",
+    "storage_bucket": "cartoon-and-rosoom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085623877620:android:f4a046c5bb7bc285",
+        "android_client_info": {
+          "package_name": "com.cartoon.videos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085623877620-kh91mlv1m678005gkcsb2mf76f50u39p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cartoon.videos",
+            "certificate_hash": "4d155d2b3a55bd4de8305d6b4b87f9d77a7a1711"
+          }
+        },
+        {
+          "client_id": "1085623877620-650tm8aqf5lv6dfbfeqq2c36pl9js7q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowzorj5WEiG2raTiVDxa-SlckGDSgpZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085623877620-650tm8aqf5lv6dfbfeqq2c36pl9js7q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085623877620:android:944f04d9d8299e76",
+        "android_client_info": {
+          "package_name": "com.kidscartoon.videos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085623877620-grio44054ushr22l1e7mpagl6hnuna8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kidscartoon.videos",
+            "certificate_hash": "57e173180143675d9ea3b99c44de737befa02af9"
+          }
+        },
+        {
+          "client_id": "1085623877620-650tm8aqf5lv6dfbfeqq2c36pl9js7q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowzorj5WEiG2raTiVDxa-SlckGDSgpZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085623877620-650tm8aqf5lv6dfbfeqq2c36pl9js7q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
