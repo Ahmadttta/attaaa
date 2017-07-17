@@ -83,6 +83,15 @@
     "iap":false,
     "tabs":[
       {
+        "title":"تجربة الالاموقعيبسيبلسيب",
+        "provider":"wordpress",
+        "arguments":[
+          "toodkkaa.wordpress.com",
+          "",
+          ""
+        ]
+      },
+      {
         "title":"WP JSON & Disqus",
         "provider":"wordpress",
         "arguments":[
