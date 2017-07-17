@@ -22,7 +22,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Youtube",
+        "title":"يوويو",
         "provider":"youtube",
         "arguments":[
           "UU7V6hW6xqPAiUfataAZZtWA",
@@ -92,7 +92,7 @@
         ]
       },
       {
-        "title":"تجربة الموقع",
+        "title":"تجربة الالاموقعيبسيبلسيب",
         "provider":"wordpress",
         "arguments":[
           "toodkkaa.wordpress.com",
