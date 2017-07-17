@@ -92,7 +92,7 @@
         ]
       },
       {
-        "title":"WP JSON & Disqus",
+        "title":"تجربة الموقع",
         "provider":"wordpress",
         "arguments":[
           "https://toodkkaa.wordpress.com/",
