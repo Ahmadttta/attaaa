@@ -92,6 +92,15 @@
         ]
       },
       {
+        "title":"WP JSON & Disqus",
+        "provider":"wordpress",
+        "arguments":[
+          "https://toodkkaa.wordpress.com/",
+          "",
+          ""
+        ]
+      },
+      {
         "title":"WP REST",
         "provider":"wordpress",
         "arguments":[
