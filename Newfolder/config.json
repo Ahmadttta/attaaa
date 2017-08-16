@@ -15,7 +15,7 @@
     ]
   },
   {
-    "title":"مغامراات",
+    "title":"مغامرات",
     "drawable":"ic_details",
     "submenu":"",
     "iap":false,
@@ -24,8 +24,7 @@
         "title":"Recent Posts",
         "provider":"wordpress",
         "arguments":[
-          "koralifeblog.wordpress.com",
-          "kooo"
+          "koralifeblog.wordpress.com"
         ]
       },
       {
