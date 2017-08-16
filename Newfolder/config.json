@@ -289,7 +289,7 @@
         "title":"WP JSON & Disqus",
         "provider":"wordpress",
         "arguments":[
-          "http://androidpolice.com",
+          "androidpolice.com",
           "",
           "http://androidpolice.disqus.com/;androidpolice;%d http://www.androidpolice.com/?p=%d"
         ]
