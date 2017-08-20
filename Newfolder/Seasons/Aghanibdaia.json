@@ -1,0 +1,38 @@
+[
+  {
+    "title":"المجموعة الأولى - سبيس تون",
+    "provider":"youtube",
+    "image":"****",
+    "arguments":[
+      "PL1ZJrJNFKyxDitxynWabWVCnYG5B3Q0eZ",
+	  "UCwpiSiEwcW6CKWhnWQ9x85Q"
+    ]
+  },
+    {
+    "title":"المجموعة الثانية",
+    "provider":"youtube",
+    "image":"****",
+    "arguments":[
+      "PL1ZJrJNFKyxDgNoOeZm8SpYUG9Y_XyV7Z",
+	  "UCSpf64-fOPCzcVUbwIAuwEw"
+    ]
+  },
+    {
+    "title":"المجموعة الثالثة",
+    "provider":"youtube",
+    "image":"****",
+    "arguments":[
+      "PL1ZJrJNFKyxBs6s_mFAggiaAJyHC7ic5F",
+	  "UCMIsI6F_xAuunHy6wuOQGXQ"
+    ]
+  },
+    {
+    "title":"المجموعة الرابعة",
+    "provider":"youtube",
+    "image":"****",
+    "arguments":[
+      "PL1ZJrJNFKyxCWI6FELHd_8g596xMfeFvt",
+	  "UCEpazc6S06a_oIO6r35v9Jg"
+    ]
+  }
+]
