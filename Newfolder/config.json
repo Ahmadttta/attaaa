@@ -322,7 +322,7 @@
   {
     "title":"التقييم والطلبات",
     "drawable":"ic_details",
-    "submenu":"الإعدادات",
+    "submenu":"التواصل معنا والتقييم",
     "iap":false,
     "tabs":[
       {
