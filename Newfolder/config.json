@@ -320,16 +320,16 @@
     ]
   },
   {
-    "title":"التقييم وطلب الكرتون",
+    "title":"التقييم وطلب كرتون أو إبلاغ عن حلقات لا تعمل",
     "drawable":"ic_details",
-    "submenu":"التقييم وطلب كرتون أو إبلاغ عن حلقات لا تعمل",
+    "submenu":"الإعدادات",
     "iap":false,
     "tabs":[
       {
         "title":"التقييم وطلب الكرتون",
-        "provider":"webview",
+        "provider":"overview",
         "arguments":[
-          "http://www.toodkkaa.wordpress.com/2017/08/12/64/"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/Settings.json"
         ]
       }
     ]
