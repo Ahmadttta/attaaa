@@ -131,7 +131,7 @@
   {
     "title":"رياضة",
     "drawable":"ic_sports",
-    "submenu":"Social Media",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
@@ -146,7 +146,7 @@
   {
     "title":"أكشن",
     "drawable":"ic_action",
-    "submenu":"Social Media",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
@@ -168,7 +168,7 @@
   {
     "title":"كرتون للأطفال",
     "drawable":"ic_kids",
-    "submenu":"Social Media",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
