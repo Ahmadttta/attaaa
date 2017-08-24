@@ -30,6 +30,21 @@
     ]
   },
   {
+    "title":"مميّز",
+    "drawable":"ic_anime",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/overview.json"
+        ]
+      }
+    ]
+  },
+  {
     "title":"مغامرات",
     "drawable":"ic_adventure",
     "submenu":"",
