@@ -77,8 +77,8 @@
     ]
   },
   {
-    "title":"قديم",
-    "drawable":"",
+    "title":"قدييم",
+    "drawable":"starapp_ic",
     "submenu":"",
     "iap":false,
     "tabs":[
