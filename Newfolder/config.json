@@ -1,7 +1,22 @@
 [
   {
     "title":"الرئيسية",
-    "drawable":"ic_next_white",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/overview.json"
+        ]
+      }
+    ]
+  },
+    {
+    "title":"مميّز",
+    "drawable":"ic_hot",
     "submenu":"التصنيفات",
     "iap":false,
     "tabs":[
@@ -16,7 +31,7 @@
   },
   {
     "title":"مغامرات",
-    "drawable":"ic_action_hardware_keyboard_arrow_left",
+    "drawable":"ic_adventure",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -63,7 +78,7 @@
   },
   {
     "title":"كرتون بنات",
-    "drawable":"ic_details",
+    "drawable":"ic_girls",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -78,7 +93,7 @@
   },
   {
     "title":"قدييم",
-    "drawable":"starapp_ic",
+    "drawable":"ic_old",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -93,7 +108,7 @@
   },
   {
     "title":"قصص وحكايات",
-    "drawable":"ic_old",
+    "drawable":"ic_story",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -115,7 +130,7 @@
   },
   {
     "title":"رياضة",
-    "drawable":"",
+    "drawable":"ic_sports",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
@@ -129,8 +144,8 @@
     ]
   },
   {
-    "title":"SoundCloud",
-    "drawable":"",
+    "title":"أكشن",
+    "drawable":"ic_action",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
@@ -151,8 +166,8 @@
     ]
   },
   {
-    "title":"Twitter",
-    "drawable":"ic_details",
+    "title":"كرتون للأطفال",
+    "drawable":"ic_kids",
     "submenu":"Social Media",
     "iap":false,
     "tabs":[
@@ -321,7 +336,7 @@
   },
   {
     "title":"التقييم والطلبات",
-    "drawable":"ic_details",
+    "drawable":"ic_rate",
     "submenu":"التواصل معنا والتقييم",
     "iap":false,
     "tabs":[
