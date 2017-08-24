@@ -16,7 +16,7 @@
   },
   {
     "title":"مغامرات",
-    "drawable":"ic_details",
+    "drawable":"ic_action_hardware_keyboard_arrow_left",
     "submenu":"",
     "iap":false,
     "tabs":[
