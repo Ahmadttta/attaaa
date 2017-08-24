@@ -17,7 +17,7 @@
     {
     "title":"مميّز",
     "drawable":"ic_hot",
-    "submenu":"التصنيفات",
+    "submenu":"",
     "iap":false,
     "tabs":[
       {
