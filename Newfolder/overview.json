@@ -8,6 +8,14 @@
     ]
   },
 
+  {
+    "title":"الـقـنـاص",
+    "provider":"webview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
+    "arguments":[
+      "https://photos.google.com/share/AF1QipM2AlarpsLg365jzqTY80W2Hmig4_eet5FNttch6TBQ9iO6fa0-iEGCi2gCiL2nzQ/photo/AF1QipPC9b4nn6KQscgpBuytmW5b8qoiuIiLA6NxrPNd?key=QjI5Snp6RXR0WlVhM29RTXo3OGZITkhiSUhJOThB"
+    ]
+  },
 
   {
     "title":"الـقـنـاص",
