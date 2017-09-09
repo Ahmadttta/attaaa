@@ -122,6 +122,21 @@
     ]
   },
   {
+    "title":"كرة قدم",
+    "drawable":"ic_heart",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Live TV ABC",
+        "provider":"stream",
+        "arguments":[
+          "https://live82.vkuserlive.com/637606/live/p7Vlzs9DkE0/playlist.m3u8"
+        ]
+      }
+    ]
+  },
+  {
     "title":"قصص وحكايات",
     "drawable":"ic_story",
     "submenu":"",
