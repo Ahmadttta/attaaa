@@ -14,17 +14,19 @@
       }
     ]
   },
-    {
+
+
+  {
     "title":"مـمـيّـز",
     "drawable":"ic_hot",
     "submenu":"",
-    "iap":true,
+    "iap":false,
     "tabs":[
       {
-        "title":"Categories",
+        "title":"",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/overview.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Hot.json"
         ]
       }
     ]
@@ -36,139 +38,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Categories",
+        "title":"",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/overview.json"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"مغامرات",
-    "drawable":"ic_adventure",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com"
-        ]
-      },
-      {
-        "title":"Themes",
-        "provider":"wordpress",
-        "arguments":[
-          "toodkkaa.wordpress.com"
-
-        ]
-      },
-      {
-        "title":"اغاني الكرتون",
-        "provider":"youtube",
-        "arguments":[
-          "PL-OXQvAUN0nPGyVBnWO8iFXngUDgwRR8A",
-          "UC4x5MKP99c0wp3MCRTVzmAw"
-        ]
-      },
-      {
-        "title":"صقور الأرض",
-        "provider":"youtube",
-        "arguments":[
-          "PL-OXQvAUN0nOXj_RPjmKWV-bCW33N9Pv_"
-
-        ]
-      },
-      {
-        "title":"Youtube Playlist",
-        "provider":"youtube",
-        "arguments":[
-          "UU7V6hW6xqPAiUfataAZZtWA",
-          "UC7V6hW6xqPAiUfataAZZtWA"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"كرتون بنات",
-    "drawable":"ic_girls",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Radio 3FM",
-        "provider":"radio",
-        "arguments":[
-          "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=709809"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"قـديـم",
-    "drawable":"ic_old",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Live TV ABC",
-        "provider":"stream",
-        "arguments":[
-          "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"كرة قدم",
-    "drawable":"ic_heart",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Live TV ABC",
-        "provider":"stream",
-        "arguments":[
-          "https://live82.vkuserlive.com/637606/live/p7Vlzs9DkE0/playlist.m3u8"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"قصص وحكايات",
-    "drawable":"ic_story",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Feed",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.feedburner.com/AndroidPolice"
-        ]
-      },
-      {
-        "title":"Podcast",
-        "provider":"rss",
-        "arguments":[
-          "http://feeds.nature.com/nature/podcast/current"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"ريـاضـة",
-    "drawable":"ic_sports",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Tumblr",
-        "provider":"tumblr",
-        "arguments":[
-          "androidbackgrounds"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Anime.json"
         ]
       }
     ]
@@ -180,17 +53,87 @@
     "iap":false,
     "tabs":[
       {
-        "title":"User",
-        "provider":"soundcloud",
+        "title":"",
+        "provider":"overview",
         "arguments":[
-          "13568105", "user"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Action.json"
         ]
-      },
+      }
+    ]
+  },
+  {
+    "title":"مغامرات",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
       {
-        "title":"Playlist",
-        "provider":"soundcloud",
+        "title":"",
+        "provider":"overview",
         "arguments":[
-          "104226047", "playlist"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Adventure.json"
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "title":"كرتون بنات",
+    "drawable":"ic_girls",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Girls.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"قـديـم",
+    "drawable":"ic_old",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/old.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"قصص وحكايات",
+    "drawable":"ic_story",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Story.json"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"ريـاضـة",
+    "drawable":"ic_sports",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Sport.json"
         ]
       }
     ]
@@ -202,168 +145,17 @@
     "iap":false,
     "tabs":[
       {
-        "title":"Twitter",
-        "provider":"twitter",
-        "arguments":[
-          "Android"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Instagram",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Instagram",
-        "provider":"instagram",
-        "arguments":[
-          "2948597263"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Facebook",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Facebook",
-        "provider":"facebook",
-        "arguments":[
-          "104958162837"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Youtube",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Youtube Live",
-        "provider":"youtube",
-        "arguments":[
-
-          "UCoMdktPbSTixAyNGwb-UYkQ"
-        ]
-      },
-      {
-        "title":"Youtube Playlist",
-        "provider":"youtube",
-        "arguments":[
-          "UU7V6hW6xqPAiUfataAZZtWA",
-          "UC7V6hW6xqPAiUfataAZZtWA"
-        ]
-      },
-      {
-        "title":"Empty",
-        "provider":"youtube",
-        "arguments":[
-          "UC7V6hW6xqPAiUfataAZZtWA"
-        ]
-      },
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.google.com"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Pinterest",
-    "drawable":"",
-    "submenu":"Social Media",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Pinterest",
-        "provider":"pinterest",
-        "arguments":[
-          "515451188540423446"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"WebView",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "http://www.google.com"
-        ]
-      }
-    ]
-
-  },
-  {
-    "title":"Categories",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Categories",
+        "title":"",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/overview.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Kids.json"
         ]
       }
     ]
   },
-  {
-    "title":"Wordpress Other",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WP JSON & Disqus",
-        "provider":"wordpress",
-        "arguments":[
-          "androidpolice.com",
-          "",
-          "http://androidpolice.disqus.com/;androidpolice;%d http://www.androidpolice.com/?p=%d"
-        ]
-      },
-      {
-        "title":"WP REST",
-        "provider":"wordpress",
-        "arguments":[
-          "https://wordpress.org/news/wp-json/wp/v2/",
-          ""
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Location",
-    "drawable":"",
-    "submenu":"Other",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"maps",
-        "arguments":[
-          "atm"
-        ]
-      }
-    ]
-  },
+
+
+
   {
     "title":"التقييم والطلبات",
     "drawable":"ic_rate",
@@ -374,7 +166,7 @@
         "title":"التقييم وطلب الكرتون",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/Settings.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Settings.json"
         ]
       }
     ]
