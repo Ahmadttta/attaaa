@@ -4,7 +4,8 @@
     "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
-      "koralifeblog.wordpress.com"
+      "toodkkaa.wordpress.com",
+      "conans1"
     ]
   },
 
