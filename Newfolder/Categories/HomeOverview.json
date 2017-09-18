@@ -1,11 +1,10 @@
 [
   {
     "title":"المحقق كونان",
-    "provider":"wordpress",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
-      "toodkkaa.wordpress.com",
-      "conans1"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/conan/ConanAR.json"
     ]
   },
 
