@@ -33,7 +33,7 @@
   },
   {
     "title":"إنـمـي",
-    "drawable":"ic_anime",
+    "drawable":"ic_movie",
     "submenu":"",
     "iap":false,
     "tabs":[
