@@ -17,7 +17,7 @@
 
 
   {
-    "title":"مميّز",
+    "title":"مــمــيّــز",
     "drawable":"ic_hot",
     "submenu":"",
     "iap":false,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "title":"إنمي",
+    "title":"إنــمــي",
     "drawable":"ic_anime",
     "submenu":"",
     "iap":false,
