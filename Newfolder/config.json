@@ -17,8 +17,8 @@
 
 
   {
-    "title":"مـنـيّـز",
-    "drawable":"ic_music",
+    "title":"مـمـيّـز",
+    "drawable":"ic_hot",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -33,7 +33,7 @@
   },
   {
     "title":"إنـمـي",
-    "drawable":"ic_movie",
+    "drawable":"ic_anime",
     "submenu":"",
     "iap":false,
     "tabs":[
