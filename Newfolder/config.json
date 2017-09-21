@@ -17,7 +17,7 @@
 
 
   {
-    "title":"مـمـيّـز",
+    "title":"مميّز",
     "drawable":"ic_hot",
     "submenu":"",
     "iap":false,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "title":"إنـمـي",
+    "title":"إنمي",
     "drawable":"ic_anime",
     "submenu":"",
     "iap":false,
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "title":"أكـشـن",
+    "title":"أكشن",
     "drawable":"ic_action",
     "submenu":"",
     "iap":false,
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "title":"قـديـم",
+    "title":"قديم",
     "drawable":"ic_old",
     "submenu":"",
     "iap":false,
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "title":"ريـاضـة",
+    "title":"رياضة",
     "drawable":"ic_sports",
     "iap":false,
     "tabs":[
