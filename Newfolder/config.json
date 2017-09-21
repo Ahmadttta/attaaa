@@ -79,7 +79,7 @@
 
 
   {
-    "title":"كـرتـون بـنـات",
+    "title":"كرتون بنات",
     "drawable":"ic_girls",
     "submenu":"",
     "iap":false,
@@ -110,7 +110,7 @@
   },
 
   {
-    "title":"قـصـص وحـكايـات",
+    "title":"قصص وحكايات",
     "drawable":"ic_story",
     "submenu":"",
     "iap":false,
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "title":"كـرتـون للأطـفـال",
+    "title":"كرتون للأطفال",
     "drawable":"ic_kids",
     "submenu":"",
     "iap":false,
