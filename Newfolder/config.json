@@ -17,7 +17,7 @@
 
 
   {
-    "title":"مــمــيّــز",
+    "title":"مـمـيّـز",
     "drawable":"ic_hot",
     "submenu":"",
     "iap":false,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "title":"إنــمــي",
+    "title":"إنـمـي",
     "drawable":"ic_anime",
     "submenu":"",
     "iap":false,
@@ -47,7 +47,7 @@
     ]
   },
   {
-    "title":"أكشن",
+    "title":"أكـشـن",
     "drawable":"ic_action",
     "submenu":"",
     "iap":false,
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "title":"مغامرات",
+    "title":"مـغـامـرات",
     "drawable":"ic_adventure",
     "submenu":"",
     "iap":false,
@@ -79,7 +79,7 @@
 
 
   {
-    "title":"كرتون بنات",
+    "title":"كـرتـون بـنـات",
     "drawable":"ic_girls",
     "submenu":"",
     "iap":false,
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "title":"قديم",
+    "title":"قـديـم",
     "drawable":"ic_old",
     "submenu":"",
     "iap":false,
@@ -110,7 +110,7 @@
   },
 
   {
-    "title":"قصص وحكايات",
+    "title":"قـصـص وحـكايـات",
     "drawable":"ic_story",
     "submenu":"",
     "iap":false,
@@ -125,7 +125,7 @@
     ]
   },
   {
-    "title":"رياضة",
+    "title":"ريـاضـة",
     "drawable":"ic_sports",
     "iap":false,
     "tabs":[
@@ -139,7 +139,7 @@
     ]
   },
   {
-    "title":"كرتون للأطفال",
+    "title":"كـرتـون للأطـفـال",
     "drawable":"ic_kids",
     "submenu":"",
     "iap":false,
