@@ -9,7 +9,7 @@
         "title":"Categories",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/HomeOvervie.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/HomeOverview.json"
         ]
       }
     ]
@@ -17,7 +17,7 @@
 
 
   {
-    "title":"مـمـيّـز993",
+    "title":"مـمـيّـز",
     "drawable":"ic_music",
     "submenu":"",
     "iap":false,
