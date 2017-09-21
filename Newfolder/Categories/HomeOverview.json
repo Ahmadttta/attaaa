@@ -1,24 +1,15 @@
 [
   {
     "title":"المحقق كونان",
-    "provider":"overview",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
-      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/conan/ConanAR.json"
+      "koralifeblog.wordpress.com"
     ]
   },
 
   {
-    "title":"الـقـنـاص",
-    "provider":"webview",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
-    "arguments":[
-      "https://photos.google.com/share/AF1QipM2AlarpsLg365jzqTY80W2Hmig4_eet5FNttch6TBQ9iO6fa0-iEGCi2gCiL2nzQ/photo/AF1QipPC9b4nn6KQscgpBuytmW5b8qoiuIiLA6NxrPNd?key=QjI5Snp6RXR0WlVhM29RTXo3OGZITkhiSUhJOThB"
-    ]
-  },
-
-  {
-    "title":"الـقـنـاص",
+    "title":"القناص",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
     "arguments":[
@@ -277,7 +268,7 @@
 
 
   {
-    "title":"نــوّار",
+    "title":"نوار",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/5.jpg",
     "arguments":[
@@ -285,7 +276,7 @@
     ]
   },
   {
-    "title":"ســالــي",
+    "title":"سالي",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/8.jpg",
     "arguments":[
@@ -301,7 +292,7 @@
     ]
   },
   {
-    "title":"هــايــدي",
+    "title":"هايدي",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/10.jpg",
     "arguments":[
@@ -333,7 +324,7 @@
     ]
   },
   {
-    "title":"الـتـوأمـان",
+    "title":"التوأمان",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/30.jpg",
     "arguments":[
@@ -341,7 +332,7 @@
     ]
   },
   {
-    "title":"مـيـراكـولـوس",
+    "title":"ميراكولوس - الدعسوقة والقط الأسود",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/33.jpg",
     "arguments":[
@@ -365,7 +356,7 @@
     ]
   },
   {
-    "title":"بـولـيـانـا",
+    "title":"بوليانا",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/38.jpg",
     "arguments":[
@@ -602,7 +593,7 @@
     ]
   },
   {
-    "title":"دورايـمـون",
+    "title":"دورايمون",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/35.jpg",
     "arguments":[
@@ -650,7 +641,7 @@
     ]
   },
   {
-    "title":"أنا وأخـي",
+    "title":"أنا وأخي",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/39.jpg",
     "arguments":[
@@ -770,7 +761,7 @@
     ]
   },
   {
-    "title":"الـبـؤسـاء",
+    "title":"البؤساء",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/43.jpg",
     "arguments":[
@@ -778,7 +769,7 @@
     ]
   },
   {
-    "title":"طـمـطـم",
+    "title":"طمطم",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/45.jpg",
     "arguments":[
