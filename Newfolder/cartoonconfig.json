@@ -35,7 +35,32 @@
       }
 
     ]
+  },
+  
+  
+  
+  
+    {
+    "title":"قصص وعبر",
+    "drawable":"ic_adventure",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Recent Posts",
+        "provider":"wordpress",
+        "arguments":[
+          "koralifeblog.wordpress.com",
+          "story3"
+
+        ]
+      }
+
+    ]
   }
+  
+  
+  
 
 
 
