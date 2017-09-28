@@ -38,22 +38,6 @@
   },
   
   
-  {
-    "title":"الرئيسية",
-    "drawable":"ic_home",
-    "submenu":"التصنيفات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Categories",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/HomeOverview.json"
-        ]
-      }
-    ]
-  },
-  
   
   
   
