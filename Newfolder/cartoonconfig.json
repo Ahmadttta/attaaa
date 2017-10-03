@@ -1,7 +1,7 @@
 [
   {
     "title":"قصص المجموعة الأولى",
-    "drawable":"ic_story",
+    "drawable":"",
     "submenu":"قصص الاطفال",
     "iap":false,
     "tabs":[
@@ -20,7 +20,7 @@
 
   {
     "title":"قصص المجموعة الثانية",
-    "drawable":"ic_kids",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
@@ -43,7 +43,7 @@
   
     {
     "title":"قصص وعبر",
-    "drawable":"ic_adventure",
+    "drawable":"",
     "submenu":"",
     "iap":false,
     "tabs":[
