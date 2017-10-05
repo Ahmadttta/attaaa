@@ -986,10 +986,11 @@
   },
   {
     "title":"نموش",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/120.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAFV8BsWi51jvE8mYjfwkuU"
+      "toodkkaa.wordpress.com",
+	  "nmooosh"
     ]
   },
   {
