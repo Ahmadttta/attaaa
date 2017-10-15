@@ -19,6 +19,25 @@
       "PL1ZJrJNFKyxCdFN4goEM32dYNM0fOKN_0"
     ]
   },
+    
+      {
+    "title":"ون بيس - لوفي قبعة القش",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/onepice/onepAR.json"
+    ]
+  },
+
+  {
+    "title":"بوروتو - ناروتو الجيل الجديد",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/179.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "boruto"
+    ]
+  },
   
     {
     "title":"أبطال الكرة",
