@@ -66,6 +66,16 @@
   },
 	
   {
+    "title":"النمر المقنع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/183.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "namer"
+    ]
+  },
+	
+  {
     "title":"فرقة الفرسان",
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/31.jpg",
