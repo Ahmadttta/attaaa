@@ -49,6 +49,20 @@
     ]
   },
     
+    
+    
+  {
+    "title":"النمر المقنع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/183.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "namer"
+    ]
+  },
+    
+    
+    
     {
     "title":"السراب",
     "provider":"youtube",
