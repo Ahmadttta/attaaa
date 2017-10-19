@@ -51,6 +51,18 @@
   },
     
   
+    
+   {
+    "title":"أبطال الكرة",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/76.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/abtal/abtalar.json"
+    ]
+  },
+    
+    
+    
     {
     "title":"ميراكولوس - الدعسوقة والقط الأسود",
     "provider":"youtube",
@@ -98,15 +110,6 @@
   },
 
 
-
-  {
-    "title":"أبطال الكرة",
-    "provider":"youtube",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/76.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxA9Sii8_l6VWWM6iVOGfCS9"
-    ]
-  },
   
     {
     "title":"البؤساء",
