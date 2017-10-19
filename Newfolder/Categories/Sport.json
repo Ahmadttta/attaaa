@@ -45,14 +45,18 @@
       "PL1ZJrJNFKyxBLYeixIhmkVquezqK21OOb"
     ]
   },
-  {
+
+  
+    {
     "title":"أبطال الكرة",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/76.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxA9Sii8_l6VWWM6iVOGfCS9"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/abtal/abtalar.json"
     ]
   },
+  
+  
   {
     "title":"الكابتن رابح",
     "provider":"youtube",
