@@ -9,15 +9,16 @@
     ]
   },
 
-  {
+    
+{
     "title":"القناص",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCdFN4goEM32dYNM0fOKN_0"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/qanas/qanas.json"
     ]
   },
-  
+    
     
       {
     "title":"ون بيس - لوفي قبعة القش",
