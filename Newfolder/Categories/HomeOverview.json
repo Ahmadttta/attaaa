@@ -45,6 +45,17 @@
     ]
   },
 	
+	
+	    {
+    "title":"دراغون بول",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/187.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/dragb/dragb.json"
+    ]
+  },
+	
+	
   {
     "title":"صقور الأرض",
     "provider":"youtube",
