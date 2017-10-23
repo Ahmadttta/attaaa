@@ -272,14 +272,19 @@
       "PL1ZJrJNFKyxC-xZsUQzMzgFSN0j69D7xo"
     ]
   },
-  {
+
+    
+    {
     "title":"أسطورة زورو",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/148.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC1rXD77-59czFPqqhGYoKw"
+      "toodkkaa.wordpress.com",
+      "zoro"
     ]
   },
+    
+    
   {
     "title":"زورو العودة للمستقبل",
     "provider":"youtube",
