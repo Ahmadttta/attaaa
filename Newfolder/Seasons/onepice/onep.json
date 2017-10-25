@@ -14,5 +14,16 @@
     "arguments":[
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/onepice/onepSUB.json"
     ]
+  },
+  
+    {
+    "title":"أفلام ون بيس - مترجم",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onepsubmov"
+    ]
   }
+  
 ]
