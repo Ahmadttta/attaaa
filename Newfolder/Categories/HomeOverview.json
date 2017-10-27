@@ -54,7 +54,15 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/dragb/dragb.json"
     ]
   },
-	
+
+	    {
+    "title":"هجوم العمالقة",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/1911.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/hojoom/hojoom.json"
+    ]
+  },
 	
   {
     "title":"صقور الأرض",
