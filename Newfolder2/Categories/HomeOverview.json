@@ -1,4 +1,35 @@
 [
+  
+
+   {
+    "title":"ناروتو",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/184.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/narot/narotAR.json"
+    ]
+  },
+	
+  {
+    "title":"بوروتو - ناروتو الجيل الجديد",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/179.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "boruto"
+    ]
+  },
+	
+	
+	    {
+    "title":"دراغون بول",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/187.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/dragb/dragb.json"
+    ]
+  },
+
   {
     "title":"المحقق كونان",
     "provider":"overview",
@@ -8,14 +39,32 @@
     ]
   },
 
-  {
+{
     "title":"القناص",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/19.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCdFN4goEM32dYNM0fOKN_0"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/qanas/qanas.json"
     ]
   },
+	
+      {
+    "title":"ون بيس - لوفي قبعة القش",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/onepice/onep.json"
+    ]
+  },
+	    {
+    "title":"هجوم العمالقة",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/1911.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/hojoom/hojoom.json"
+    ]
+  },
+	
   {
     "title":"صقور الأرض",
     "provider":"youtube",
@@ -32,6 +81,71 @@
       "PL1ZJrJNFKyxATSX0GkChzcQ4oVjXv6T-0"
     ]
   },
+	
+
+	{
+    "title":"سيف النار",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/182.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "saifar"
+    ]
+  },
+	
+  {
+    "title":"النمر المقنع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/183.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "namer"
+    ]
+  },
+	
+	
+  {
+    "title":"سلام دانك",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/185.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/slam/slam.json"
+    ]
+  },
+	
+	
+	    {
+    "title":"أبطال الكرة",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/76.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/abtal/abtalar.json"
+    ]
+  },
+	
+	
+	    {
+    "title":"ليدي ليدي",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/189.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "laadylaady"
+    ]
+  },
+  
+      {
+    "title":"ليدي أوسكار",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/190.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "laaadyosc"
+    ]
+  },
+	
+	
+	
   {
     "title":"فرقة الفرسان",
     "provider":"youtube",
@@ -96,6 +210,16 @@
       "PL1ZJrJNFKyxCKjWf_YjRnLzgeUNZXFzfk"
     ]
   },
+	
+ {
+    "title":"رئيسة مجلس الطلبة نادلة - مترجم",
+    "provider":"youtube",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/181.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxDA0sM0PxkdbZ3uvCQCGmOR"
+    ]
+  },
+	
   {
     "title":"ساسوكي",
     "provider":"youtube",
@@ -200,14 +324,18 @@
       "PL1ZJrJNFKyxC-xZsUQzMzgFSN0j69D7xo"
     ]
   },
-  {
+
+	 {
     "title":"أسطورة زورو",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/148.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC1rXD77-59czFPqqhGYoKw"
+      "toodkkaa.wordpress.com",
+      "zoro"
     ]
   },
+	
+	
   {
     "title":"زورو العودة للمستقبل",
     "provider":"youtube",
@@ -986,10 +1114,11 @@
   },
   {
     "title":"نموش",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/120.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAFV8BsWi51jvE8mYjfwkuU"
+      "toodkkaa.wordpress.com",
+	  "nmooosh"
     ]
   },
   {
@@ -1266,14 +1395,7 @@
       "PL1ZJrJNFKyxBLYeixIhmkVquezqK21OOb"
     ]
   },
-  {
-    "title":"أبطال الكرة",
-    "provider":"youtube",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/76.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxA9Sii8_l6VWWM6iVOGfCS9"
-    ]
-  },
+
   {
     "title":"الكابتن رابح",
     "provider":"youtube",
