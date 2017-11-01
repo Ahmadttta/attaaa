@@ -9,7 +9,7 @@
         "title":"Categories",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/HomeOverview.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder2/Categories/HomeOverview.json"
         ]
       }
     ]
@@ -166,7 +166,7 @@
         "title":"التقييم وطلب الكرتون",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Settings.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder2/Categories/Settings.json"
         ]
       }
     ]
