@@ -143,7 +143,14 @@
     ]
   },
 	
-	
+	{
+	    "title":"طوكيو غول - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/192.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/tokygol/tokygol.json"
+    ]
+  },
 	
   {
     "title":"فرقة الفرسان",
