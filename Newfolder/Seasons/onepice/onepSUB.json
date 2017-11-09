@@ -37,6 +37,35 @@
     ]
   },
 	
+	 {
+    "title":"الجزء الخامس",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onepsub5"
+    ]
+  },
+	
+	 {
+    "title":"الجزء السادس",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onepsub6"
+    ]
+  },
+	
+	 {
+    "title":"الجزء السابع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/180.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "onepsub7"
+    ]
+  },
     
     {
     "title":"الجزء الثامن",
