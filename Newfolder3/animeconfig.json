@@ -15,6 +15,21 @@
     ]
   },
 
+    {
+    "title":"إنـمـي",
+    "drawable":"ic_anime",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Anime.json"
+        ]
+      }
+    ]
+  },
 
   {
     "title":"مـمـيّـز",
@@ -31,21 +46,7 @@
       }
     ]
   },
-  {
-    "title":"إنـمـي",
-    "drawable":"ic_anime",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Anime.json"
-        ]
-      }
-    ]
-  },
+
   {
     "title":"أكـشـن",
     "drawable":"ic_action",
