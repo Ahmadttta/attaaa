@@ -238,6 +238,28 @@
       "PL1ZJrJNFKyxBE0eeY7K7h5ngHK0QFbCqe"
     ]
   },
+	
+		  {
+    "title":"داي الشجاع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/194.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "dayyshoga"
+    ]
+  },
+	
+	
+	  {
+    "title":"ريمي الفتى الشريد",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/195.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "remishareed"
+    ]
+  },
+	
   {
     "title":"ماوكلي فتى الأدغال",
     "provider":"youtube",
