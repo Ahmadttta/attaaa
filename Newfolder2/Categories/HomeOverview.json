@@ -201,6 +201,28 @@
       "PL1ZJrJNFKyxAF9SmM-8MzhPIvb3I9A2rR"
     ]
   },
+	
+		  {
+    "title":"داي الشجاع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/194.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "dayyshoga"
+    ]
+  },
+	
+	
+	  {
+    "title":"ريمي الفتى الشريد",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/195.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "remishareed"
+    ]
+  },
+	
   {
     "title":"السراب",
     "provider":"youtube",
