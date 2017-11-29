@@ -7,7 +7,7 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/dragb/dragbZSUB.json"
     ]
   },
-    {
+  {
     "title":"دراغون بول كاي - مترجم",
     "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/11/199.jpg",
@@ -15,25 +15,25 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/dragb/dragbKAISUB.json"
     ]
   },
-  
-    {
+
+  {
     "title":"دراغون بول جي تي GT - مترجم",
     "provider":"wordpress",
-    "https://toodkkaa.files.wordpress.com/2017/11/200.jpg",
+    "image":"https://toodkkaa.files.wordpress.com/2017/11/200.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
-	  "dragboogtsub"
+      "dragboogtsub"
     ]
   },
-  
+
   {
     "title":"دراغون بول سوبر - مترجم",
     "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/10/188.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
-	  "dragsupersub"
+      "dragsupersub"
     ]
   }
-  
+
 ]
