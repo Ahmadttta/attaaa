@@ -20,18 +20,19 @@
   },
   {
     "title":"ميراكولوس - الدعسوقة والقط الأسود",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/33.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBDPlrmv9buk-AnxBNXArkS"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/meracolos/meracolos.json"
     ]
   },
   {
     "title":"لولي روك",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/134.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAw7zEOInprC4ZgkEj0qzmH"
+      "toodkkaa.wordpress.com",
+      "lolyroockk"
     ]
   },
   
@@ -55,6 +56,15 @@
     ]
   },
   
+    {
+    "title":"حروف السكر",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/205.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "horofsukar"
+    ]
+  },
 
   {
     "title":"دروب ريمي",
@@ -66,10 +76,11 @@
   },
   {
     "title":"سندريلا",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/84.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDYhll_BZzDklrwuKbrHZ3H"
+      "toodkkaa.wordpress.com",
+      "sanderela"
     ]
   },
   {
