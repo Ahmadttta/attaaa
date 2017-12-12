@@ -71,6 +71,15 @@
     ]
   },
   
+	  {
+    "title":"القط الأسود",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/203.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "blaccat"
+    ]
+  },
     
         {
     "title":"أبطال الكرة",
@@ -102,6 +111,7 @@
     ]
   },
     
+	
     
   {
     "title":"ساكورا",
@@ -191,10 +201,11 @@
 
   {
     "title":"إيميلي فتاة الرياح",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/81.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAvoYawsVvB7WmdYSxU4Do6"
+      "toodkkaa.wordpress.com",
+      "emeley"
     ]
   },
 
