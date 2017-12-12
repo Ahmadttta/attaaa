@@ -223,6 +223,49 @@
   },
 	
 	
+  {
+    "title":"بي بليد",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/214.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/bebleed/bebleed.json"
+    ]
+  },
+
+
+
+  {
+    "title":"القط الأسود",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/203.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "blaccat"
+    ]
+  },
+
+
+  {
+    "title":"ساندي بل",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/204.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "sanddy"
+    ]
+  },
+
+
+  {
+    "title":"حروف السكر",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/205.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "horofsukar"
+    ]
+  },
+	
 	  {
     "title":"ريمي الفتى الشريد",
     "provider":"wordpress",
@@ -291,6 +334,28 @@
       "PL1ZJrJNFKyxCoQdChrJMN2rj3pCvb_kje"
     ]
   },
+	
+	  {
+    "title":"رعد العملاق",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/207.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "raadamlaq"
+    ]
+  },
+
+
+  {
+    "title":"جرندايزر",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/206.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "grendaizerr"
+    ]
+  },
+	
   {
     "title":"من أجل البقاء - الكوكب المهجور - مترجم",
     "provider":"youtube",
@@ -317,10 +382,10 @@
   },
   {
     "title":"نسور الفضاء",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/122.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDmrlOhWts0VLQ-GqTofhev"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/nosoralfada/nosoralfada.json"
     ]
   },
   {
@@ -417,10 +482,11 @@
   },
   {
     "title":"البطل خماسي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/166.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC8XVL-ueko0_iDJATkIUhq"
+      "toodkkaa.wordpress.com",
+      "khomassy"
     ]
   },
   {
@@ -505,18 +571,20 @@
   },
   {
     "title":"ميراكولوس - الدعسوقة والقط الأسود",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/33.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBDPlrmv9buk-AnxBNXArkS"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/meracolos/meracolos.json"
     ]
   },
+
   {
     "title":"لولي روك",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/134.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAw7zEOInprC4ZgkEj0qzmH"
+      "toodkkaa.wordpress.com",
+      "lolyroockk"
     ]
   },
   {
@@ -577,18 +645,20 @@
   },
   {
     "title":"إيميلي فتاة الرياح",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/81.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAvoYawsVvB7WmdYSxU4Do6"
+      "toodkkaa.wordpress.com",
+      "emeley"
     ]
   },
   {
     "title":"سندريلا",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/84.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDYhll_BZzDklrwuKbrHZ3H"
+      "toodkkaa.wordpress.com",
+      "sanderela"
     ]
   },
   {
