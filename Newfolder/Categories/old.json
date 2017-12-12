@@ -76,6 +76,16 @@
     ]
   },
   
+	
+  {
+    "title":"ساندي بل",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/204.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "sanddy"
+    ]
+  },
   
   {
     "title":"سيف النار",
@@ -158,6 +168,29 @@
       "PL1ZJrJNFKyxCoQdChrJMN2rj3pCvb_kje"
     ]
   },
+	
+	  {
+    "title":"رعد العملاق",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/207.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "raadamlaq"
+    ]
+  },
+	
+	  {
+    "title":"جرندايزر",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/206.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "grendaizerr"
+    ]
+  },
+	
+	
+	
   {
     "title":"مدرسة الكونغ فو",
     "provider":"youtube",
@@ -168,10 +201,10 @@
   },
   {
     "title":"نسور الفضاء",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/122.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDmrlOhWts0VLQ-GqTofhev"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/nosoralfada/nosoralfada.json"
     ]
   },
   {
@@ -213,10 +246,11 @@
 	
   {
     "title":"البطل خماسي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/166.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC8XVL-ueko0_iDJATkIUhq"
+      "toodkkaa.wordpress.com",
+      "khomassy"
     ]
   },
 
@@ -333,10 +367,11 @@
   },
   {
     "title":"سندريلا",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/84.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDYhll_BZzDklrwuKbrHZ3H"
+      "toodkkaa.wordpress.com",
+      "sanderela"
     ]
   },
   {
