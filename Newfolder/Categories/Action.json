@@ -136,6 +136,30 @@
       "PL1ZJrJNFKyxAwriL4dxj_TLGxRpMBxj5B"
     ]
   },
+	
+	  {
+    "title":"جرندايزر",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/206.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "grendaizerr"
+    ]
+  },
+	
+	
+	
+  {
+    "title":"رعد العملاق",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/207.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "raadamlaq"
+    ]
+  },
+	
+	
   {
     "title":"هزيم الرعد",
     "provider":"youtube",
@@ -251,10 +275,10 @@
   },
   {
     "title":"نسور الفضاء",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/122.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDmrlOhWts0VLQ-GqTofhev"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/nosoralfada/nosoralfada.json"
     ]
   },
   {
@@ -345,10 +369,11 @@
   },
   {
     "title":"البطل خماسي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/166.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC8XVL-ueko0_iDJATkIUhq"
+      "toodkkaa.wordpress.com",
+      "khomassy"
     ]
   },
   {
