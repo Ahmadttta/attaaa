@@ -27,7 +27,14 @@
     ]
   },
   
-  
+    {
+    "title":"بي بليد",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/214.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/bebleed/bebleed.json"
+    ]
+  },
 
   {
     "title":"الهداف - الكابتن رامي",
