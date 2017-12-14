@@ -179,6 +179,17 @@
     ]
   },
 	
+	
+	  {
+    "title":"مازنجر زد",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/212.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "mazngerz"
+    ]
+  },
+	
 	  {
     "title":"جرندايزر",
     "provider":"wordpress",
