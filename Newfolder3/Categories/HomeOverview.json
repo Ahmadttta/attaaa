@@ -163,7 +163,59 @@
     ]
   },
 
+	
+  {
+    "title":"رجل اللكمة الواحدة - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/208.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/onepunchman/onepunchman.json"
+    ]
+  },
 
+
+  {
+    "title":"الكيميائي المعدني الكامل - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/209.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/kemeaaymaadny/kemeaaymaadny.json"
+    ]
+  },
+
+
+
+
+  {
+    "title":"كود جياس - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/211.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/codegeas/codegeas.json"
+    ]
+  },
+
+
+
+
+  {
+    "title":"بليتش - مترجم",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/213.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/bleach/bleach.json"
+    ]
+  },
+	
+
+  {
+    "title":"يوكاي واتش",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/210.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/yokaywatch/yokaywatch.json"
+    ]
+  },
 
   {
     "title":"القط الأسود",
@@ -587,6 +639,16 @@
   },
 
 
+	  {
+    "title":"مازنجر زد",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/212.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "mazngerz"
+    ]
+  },
+	
   {
     "title":"جرندايزر",
     "provider":"wordpress",
