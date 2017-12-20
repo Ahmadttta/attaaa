@@ -1,6 +1,24 @@
 [
  
   
+ 
+  {
+    "title":"الرئيسية",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/New%20folder%20(13)/update3.json"
+        ]
+      }
+    ]
+  },
+ 
+ 
   
   {
     "title":"قائمة المعلومات الأولى",
