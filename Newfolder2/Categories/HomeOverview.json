@@ -1,5 +1,26 @@
 [
-    {
+   
+	  {
+    "title":"سيتم إيقاف التطبيق - ادخل هنا",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/179.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "newwwapp"
+    ]
+  },
+	
+	{
+    "title":"تحميل تطبيق كرتون عربي",
+    "provider":"custom",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-22-copy-9.png",
+    "arguments":[
+      "https://play.google.com/store/apps/details?id=com.arabic.cartoonanime",
+      "url"
+    ]
+  },
+	
+	{
     "title":"ناروتو",
     "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/10/184.jpg",
