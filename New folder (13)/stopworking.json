@@ -1,21 +1,12 @@
 [
-   {
-    "title":"سيتم إيقاف العمل بالتطبيق - أدخل هنا لمزيد من المعلومات",
-    "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-1-copy-35aa1.jpg",
-    "arguments":[
-      "toodkkaa.wordpress.com",
-      "newwwapp"
-    ]
-  },
-
+   
 
  {
-    "title":"تحميل التطبيق البديل - مسلسلات كرتون وانمي",
+    "title":"عاد التطبيق للعمل قم بالتحديث  الآن",
     "provider":"custom",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-22-copy-9a.png",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-22-copy-9.png",
     "arguments":[
-      "https://play.google.com/store/apps/details?id=com.muslslat.anime",
+      "https://play.google.com/store/apps/details?id=com.arabic.cartoonanime&hl=ar",
       "url"
     ]
   }
