@@ -2,7 +2,17 @@
    
 
  {
-    "title":"قم بالتحديث ثم أغلق التطبيق وأعد تشغيله",
+    "title":"سيتم إيقاف التطبيق - ادخل هنا",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-1-copy-35aa1.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "newwwapp"
+    ]
+  },
+	
+	{
+    "title":"تحميل تطبيق كرتون عربي - عاد للعمل",
     "provider":"custom",
     "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-22-copy-9.png",
     "arguments":[
