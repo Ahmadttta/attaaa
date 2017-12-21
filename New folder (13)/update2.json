@@ -2,12 +2,22 @@
    
 
  {
-    "title":"قم بالتحديث ثم أغلق التطبيق وأعد تشغيله",
+    "title":"قم بالتحديث من هنا",
     "provider":"custom",
     "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-22-copy-9a2.png",
     "arguments":[
       "https://play.google.com/store/apps/details?id=com.muslslat.anime",
       "url"
+    ]
+  },
+   
+     {
+    "title":"إقرأ هنا - يجب إغلاق التطبيق ثم فتحه بعد التحديث",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-1aa.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "howtoupdate"
     ]
   }
 ]
