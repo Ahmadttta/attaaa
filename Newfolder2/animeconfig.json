@@ -1,42 +1,17 @@
 [
-  {
-    "title":"قائمة المعلومات الأولى",
-    "drawable":"",
-    "submenu":"",
+   {
+    "title":"الرئيسية",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
     "iap":false,
     "tabs":[
       {
-        "title":"Recent Posts",
-        "provider":"wordpress",
+        "title":"Categories",
+        "provider":"overview",
         "arguments":[
-          "koralifeblog.wordpress.com",
-          "stopworking"
-
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/New%20folder%20(13)/update2.json"
         ]
       }
-
-    ]
-  },
-
-  
-  
-  
-    {
-    "title":"قائمة المعلومات الثانية",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "stopdagooo"
-
-        ]
-      }
-
     ]
   }
   
