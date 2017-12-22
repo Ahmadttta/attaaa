@@ -16,49 +16,6 @@
         ]
       }
     ]
-  },
- 
- 
-  
-  {
-    "title":"قائمة المعلومات الأولى",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "stopworking"
-
-        ]
-      }
-
-    ]
-  },
-
-  
-  
-  
-    {
-    "title":"قائمة المعلومات الثانية",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "stopdagooo"
-
-        ]
-      }
-
-    ]
   }
   
   
