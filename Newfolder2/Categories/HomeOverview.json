@@ -208,6 +208,46 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/bleach/bleach.json"
     ]
   },
+	
+	
+	
+	
+  {
+    "title":"ابطال الديجيتال واندماج الديجيمون",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/220.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/abtaldigital/abtaldigital.json"
+    ]
+  },
+
+
+
+  {
+    "title":"يوغي يو",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/226.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/yougiyo/yougiyo.json"
+    ]
+  },
+
+
+
+  {
+    "title":"افاتار - اسطورة انج و كورا",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/215.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/avatar/avatar.json"
+    ]
+  },
+
+
+	
+	
+	
+	
   {
     "title":"فرقة الفرسان",
     "provider":"youtube",
@@ -276,6 +316,30 @@
       "mashsh"
     ]
   },
+	
+	
+	  {
+    "title":"القناع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/202.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "qenaa"
+    ]
+  },
+
+
+  {
+    "title":"ال بي اكس - LBX",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/12/218.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "llbbxx"
+    ]
+  },
+
+	
 	
 	
   {
