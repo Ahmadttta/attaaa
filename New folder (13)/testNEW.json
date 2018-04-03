@@ -10,6 +10,15 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/conan/ConanAR.json"
     ]
   },
+	
+	  {
+    "title":"حكايات عالمية",
+    "provider":"youtube",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/1.jpg",
+    "arguments":[
+      "PL1ZJrJNFKyxAF1XhoCPmeYytH9WXdIZzQ", "playlist"
+    ]
+  },
 
 {
     "title":"القناص",
@@ -1704,7 +1713,7 @@
     "provider":"youtube",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/1.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAF1XhoCPmeYytH9WXdIZzQ"
+      "PL1ZJrJNFKyxAF1XhoCPmeYytH9WXdIZzQ", "playlist"
     ]
   },
   {
