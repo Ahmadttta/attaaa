@@ -14,6 +14,22 @@
       }
     ]
   },
+  
+    {
+    "title":"كرتون للأطفال",
+    "drawable":"ic_kids",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Kids.json"
+        ]
+      }
+    ]
+  },
 
     {
     "title":"إنـمـي",
@@ -139,21 +155,7 @@
       }
     ]
   },
-  {
-    "title":"كرتون للأطفال",
-    "drawable":"ic_kids",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Kids.json"
-        ]
-      }
-    ]
-  },
+
 
 
 
