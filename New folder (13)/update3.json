@@ -6,18 +6,9 @@
     "provider":"custom",
     "image":"https://toodkkaa.files.wordpress.com/2017/12/512x512.png",
     "arguments":[
-      "https://play.google.com/store/apps/details?id=com.arabic.anime",
+      "https://play.google.com/store/apps/details?id=com.arabs.anime&hl=ar",
       "url"
     ]
-  },
-   
-     {
-    "title":"إقرأ هنا - يجب إغلاق التطبيق ثم فتحه بعد التحديث",
-    "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-1aa.jpg",
-    "arguments":[
-      "toodkkaa.wordpress.com",
-      "howtoupdate"
-    ]
   }
+   
 ]
