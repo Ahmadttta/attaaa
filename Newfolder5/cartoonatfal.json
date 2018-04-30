@@ -31,53 +31,8 @@
     ]
   },
 
-    {
-    "title":"إنـمـي",
-    "drawable":"ic_anime",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Anime.json"
-        ]
-      }
-    ]
-  },
+    
 
-  {
-    "title":"مـمـيّـز",
-    "drawable":"ic_hot",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Hot.json"
-        ]
-      }
-    ]
-  },
-
-  {
-    "title":"أكـشـن",
-    "drawable":"ic_action",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Action.json"
-        ]
-      }
-    ]
-  },
   {
     "title":"مغامرات",
     "drawable":"ic_adventure",
@@ -95,6 +50,23 @@
   },
 
 
+  {
+    "title":"أكـشـن",
+    "drawable":"ic_action",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Action.json"
+        ]
+      }
+    ]
+  },
+  
+  
   {
     "title":"كرتون بنات",
     "drawable":"ic_girls",
@@ -141,6 +113,39 @@
       }
     ]
   },
+  
+  {
+    "title":"إنـمـي",
+    "drawable":"ic_anime",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Anime.json"
+        ]
+      }
+    ]
+  },
+
+  {
+    "title":"مـمـيّـز",
+    "drawable":"ic_hot",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Hot.json"
+        ]
+      }
+    ]
+  },
+  
   {
     "title":"ريـاضـة",
     "drawable":"ic_sports",
