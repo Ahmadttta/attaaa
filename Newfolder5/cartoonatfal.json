@@ -1,22 +1,5 @@
 [
-  {
-    "title":"قصص المجموعة الأولى",
-    "drawable":"",
-    "submenu":"قصص الاطفال",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story1"
 
-        ]
-      }
-
-    ]
-  },
 
   {
     "title":"قصص المجموعة الثانية",
