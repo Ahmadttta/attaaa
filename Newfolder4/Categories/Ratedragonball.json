@@ -1,0 +1,25 @@
+[
+   
+
+   
+   	    {
+    "title":"موعد إضافة دراغون بول",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/10/187.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "ratedragonball"
+    ]
+  },
+  
+  {
+    "title":"تقييم التطبيق 5 نجوم",
+    "provider":"custom",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/rate.png",
+    "arguments":[
+      "xxx",
+      "url"
+    ]
+  }
+   
+]
