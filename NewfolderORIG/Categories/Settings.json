@@ -1,0 +1,29 @@
+[
+  {
+    "title":"التقييم",
+    "provider":"custom",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/rate.png",
+    "arguments":[
+      "https://play.google.com/store/apps/details?id=com.apptech.kidsvideos&hl=ar",
+      "url"
+    ]
+  },
+    {
+    "title":"طلب الكرتون والإنمي",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/ask.png",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "askorig"
+    ]
+  },
+  {
+    "title":"الإبلاغ عن حلقات لا تعمل",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/report.png",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "report"
+    ]
+  }
+]
