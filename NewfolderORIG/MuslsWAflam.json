@@ -1,8 +1,8 @@
 [
   {
-    "title":"قائمة المعلومات الأولى",
+    "title":"قصص المجموعة الأولى",
     "drawable":"",
-    "submenu":"",
+    "submenu":"قصص الاطفال",
     "iap":false,
     "tabs":[
       {
@@ -10,7 +10,7 @@
         "provider":"wordpress",
         "arguments":[
           "koralifeblog.wordpress.com",
-          "stopworking"
+          "story1"
 
         ]
       }
@@ -18,11 +18,8 @@
     ]
   },
 
-  
-  
-  
-    {
-    "title":"قائمة المعلومات الثانية",
+  {
+    "title":"قصص المجموعة الثانية",
     "drawable":"",
     "submenu":"",
     "iap":false,
@@ -32,7 +29,30 @@
         "provider":"wordpress",
         "arguments":[
           "koralifeblog.wordpress.com",
-          "stopdagooo"
+          "story2"
+
+        ]
+      }
+
+    ]
+  },
+  
+  
+  
+  
+  
+    {
+    "title":"قصص وعبر",
+    "drawable":"",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Recent Posts",
+        "provider":"wordpress",
+        "arguments":[
+          "koralifeblog.wordpress.com",
+          "story3"
 
         ]
       }
