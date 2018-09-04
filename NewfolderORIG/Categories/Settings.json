@@ -25,5 +25,16 @@
       "toodkkaa.wordpress.com",
       "report"
     ]
+  },
+  
+  
+  	{
+    "title":"ألعاب",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2018/09/games.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/Games.json"
+    ]
   }
+
 ]
