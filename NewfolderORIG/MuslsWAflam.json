@@ -155,6 +155,23 @@
   },
 
 
+    {
+    "title":"ألعاب وتطبيقات",
+    "drawable":"ic_home",
+    "submenu":"ألعاب وتطبيقات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/AppsandGames.json"
+        ]
+      }
+    ]
+  },
+  
+  
 
   {
     "title":"التقييم والطلبات",
