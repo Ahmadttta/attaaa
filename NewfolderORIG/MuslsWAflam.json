@@ -157,7 +157,7 @@
 
     {
     "title":"ألعاب وتطبيقات",
-    "drawable":"ic_home",
+    "drawable":"starapp_ic",
     "submenu":"ألعاب وتطبيقات",
     "iap":false,
     "tabs":[
