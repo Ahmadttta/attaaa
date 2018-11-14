@@ -10,15 +10,5 @@
       "url"
     ]
   }
-,
-   
-     {
-    "title":"إقرأ هنا - يجب إغلاق التطبيق ثم فتحه بعد التحديث",
-    "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/artboard-1aa.jpg",
-    "arguments":[
-      "toodkkaa.wordpress.com",
-      "howtoupdate"
-    ]
-  }
+
 ]
