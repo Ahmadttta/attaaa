@@ -3,22 +3,22 @@
 
 {
     "title":"المحقق كونان",
-    "provider":"custom",
+    "provider":"webview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
-      "http:https://ahmadvideo:qweasdzxc00011234@ahmadvideo.lw702.usbx.me/files/rsoom/1.mp4",
-        "url"
+      "https://ahmadvideo:qweasdzxc00011234@ahmadvideo.lw702.usbx.me/files/rsoom/1.mp4",
+       
     ]
   },
   
   
   {
     "title":"المحقق كونان",
-    "provider":"custom",
+    "provider":"webview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "https://ahmadvideo:qweasdzxc00011234@ahmadvideo.lw702.usbx.me/files/rsoom/1.mp4",
-        "url"
+        
     ]
   }
   
