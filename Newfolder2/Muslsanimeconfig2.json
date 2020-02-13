@@ -1,25 +1,19 @@
 [
-
-
-{
-    "title":"المحقق كونان",
-    "provider":"overview",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
-    "arguments":[
-      "https://ahmadvideo:qweasdzxc00011234@ahmadvideo.lw702.usbx.me/files/rsoom/1.mp4" , "url"
-    ]
-  },
-  
-  
-  {
-    "title":"المحقق كونان",
-    "provider":"overview",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
-    "arguments":[
-      "https://ahmadvideo:qweasdzxc00011234@ahmadvideo.lw702.usbx.me/files/rsoom/1.mp4" , "url"
+   {
+    "title":"الرئيسية",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Categories",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/New%20folder%20(13)/update2.json"
+        ]
+      }
     ]
   }
   
-  
-  
-  ]
+
+]
