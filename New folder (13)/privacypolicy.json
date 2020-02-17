@@ -1,0 +1,21 @@
+[
+
+    {
+    "title":"YouTube Terms of Service",
+    "provider":"custom",
+    "image":"",
+    "arguments":[
+     "https://www.youtube.com/static?template=terms",
+      "url"
+    ]
+  },
+  {
+    "title":"Google Privacy Policy",
+    "provider":"custom",
+    "image":"",
+    "arguments":[
+      "https://policies.google.com/privacy",
+      "url"
+    ]
+  }
+]
