@@ -25,5 +25,14 @@
       "toodkkaa.wordpress.com",
       "report"
     ]
+  },
+  
+ {
+    "title":"سياسة الخصوصية وشروط الإستخدام",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/02/privacy.png",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/New%20folder%20(13)/privacypolicy.json"
+    ]
   }
 ]
