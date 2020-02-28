@@ -1,64 +1,22 @@
 [
-
+ 
+  
+ 
   {
-    "title":"قصص المجموعة الثانية",
-    "drawable":"",
-    "submenu":"",
+    "title":"الرئيسية",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
     "iap":false,
     "tabs":[
       {
-        "title":"Recent Posts",
-        "provider":"wordpress",
+        "title":"Categories",
+        "provider":"overview",
         "arguments":[
-          "koralifeblog.wordpress.com",
-          "story2"
-
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/New%20folder%20(13)/update3.json"
         ]
       }
-
-    ]
-  },
-  
-  {
-    "title":"قصص وعبر",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story3"
-
-        ]
-      }
-
-    ]
-  },
-  
-  
-  
-
-  {
-    "title":"قصص المجموعة الأولى",
-    "drawable":"",
-    "submenu":"قصص الاطفال",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story1"
-
-        ]
-      }
-
     ]
   }
- 
-
+  
+  
 ]
