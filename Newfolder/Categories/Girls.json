@@ -386,18 +386,20 @@
 
   {
     "title":"انا وأخواتي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/40.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxBZUsrX3jAaaccAMzC8aC_l"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "anawakhwaty"
     ]
   },
   {
     "title":"انا وأختي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/41.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCr3wZAQbHbKEyAA3FULoj6"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "anawakhty"
     ]
   },
   {
@@ -424,12 +426,13 @@
       "PL1ZJrJNFKyxDHhkQyGG-4U60miKaWh1v2"
     ]
   },
-  {
+    {
     "title":"مدينة النخيل",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/47.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCuF3UaIQbsYSDQqFi-hiNt"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "madenanakheel"
     ]
   },
   {
