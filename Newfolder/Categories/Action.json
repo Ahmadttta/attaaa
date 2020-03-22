@@ -209,12 +209,13 @@
       "mukatlnabeel"
     ]
   },
-  {
-    "title":"صقور الأرض",
-    "provider":"youtube",
+    {
+    "title":"صقور الأرض - أسياد الشرق",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/26.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxAwriL4dxj_TLGxRpMBxj5B"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "sokorard"
     ]
   },
 	
@@ -243,10 +244,11 @@
 	
   {
     "title":"هزيم الرعد",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/27.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxATSX0GkChzcQ4oVjXv6T-0"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "hazeemalr3d"
     ]
   },
   {
