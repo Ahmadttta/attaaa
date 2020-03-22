@@ -17,28 +17,31 @@
       "PL1ZJrJNFKyxAGcrAvQhV-nVLK49h3RKCw"
     ]
   },
-  {
+    {
     "title":"عهد الأصدقاء",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/6.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxBHS3BrVOuFpYQkA2I4WeRO"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "ahdalasdqa"
     ]
   },
   {
     "title":"مغامرات سندباد",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/14.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxBfK0C0JTBefjMyylgpj5FP"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "sinidebaad"
     ]
   },
   {
     "title":"عدنان ولينا",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/21.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxBE0eeY7K7h5ngHK0QFbCqe"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "adnanwlena"
     ]
   },
 	
@@ -55,10 +58,11 @@
 	
   {
     "title":"ماوكلي فتى الأدغال",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/16.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCZ-3izNmI_CLnP1D5pCglN"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "mawkly"
     ]
   },
   {
@@ -69,12 +73,13 @@
       "PL1ZJrJNFKyxDHhkQyGG-4U60miKaWh1v2"
     ]
   },
-  {
+    {
     "title":"مدينة النخيل",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/47.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCuF3UaIQbsYSDQqFi-hiNt"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "madenanakheel"
     ]
   },
 
@@ -90,26 +95,29 @@
   },
   {
     "title":"انا وأخي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/39.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCmXPhoQZM1LNtHcIOEuPaM"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "anawakhy"
     ]
   },
   {
     "title":"انا وأخواتي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/40.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxBZUsrX3jAaaccAMzC8aC_l"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "anawakhwaty"
     ]
   },
   {
     "title":"انا وأختي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/41.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCr3wZAQbHbKEyAA3FULoj6"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "anawakhty"
     ]
   },
   {
