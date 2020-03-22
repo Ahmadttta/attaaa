@@ -175,12 +175,13 @@
   },
     
     
-  {
+   {
     "title":"رئيسة مجلس الطلبة نادلة - مترجم",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/10/181.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxDA0sM0PxkdbZ3uvCQCGmOR"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "ra2estmajlstalaba"
     ]
   },
 
