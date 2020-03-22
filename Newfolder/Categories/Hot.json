@@ -219,12 +219,13 @@
     ]
   },
   
-    {
+  {
     "title":"انا وأخي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/39.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCmXPhoQZM1LNtHcIOEuPaM"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "anawakhy"
     ]
   },
     
@@ -278,12 +279,13 @@
       "PL1ZJrJNFKyxDHhkQyGG-4U60miKaWh1v2"
     ]
   },
-  {
+    {
     "title":"مدينة النخيل",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/47.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxCuF3UaIQbsYSDQqFi-hiNt"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "madenanakheel"
     ]
   },
   
@@ -375,19 +377,21 @@
   },
 
     {
-    "title":"صقور الأرض",
-    "provider":"youtube",
+    "title":"صقور الأرض - أسياد الشرق",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/26.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxAwriL4dxj_TLGxRpMBxj5B"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "sokorard"
     ]
   },
   {
     "title":"هزيم الرعد",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/27.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxATSX0GkChzcQ4oVjXv6T-0"
+     "arguments":[ 
+ 	 "toodkkaa.wordpress.com",
+      "hazeemalr3d"
     ]
   },
 
