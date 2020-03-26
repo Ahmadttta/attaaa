@@ -1,42 +1,47 @@
 [
   {
     "title":"الجزء الأول",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBNbAgzxsujAq1q2aC1xQHM"
+       "yoodkkaa.wordpress.com",
+	    "captinmajedse1"
     ]
   },
     {
     "title":"الجزء الثاني",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDXjU2FyspH0p86wEtXazSN"
+            "yoodkkaa.wordpress.com",
+	    "captinmajedse2"
     ]
   },
     {
     "title":"الجزء الثالث",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC-X6k7V50dXE16LGPCS1D9"
+            "yoodkkaa.wordpress.com",
+	    "captinmajedse3"
     ]
   },
     {
     "title":"الجزء الرابع",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCSoPYDf2mBFtrRW5YsJKWC"
+            "yoodkkaa.wordpress.com",
+	    "captinmajedse4"
     ]
   },
     {
     "title":"الجزء الخامس - الشبح",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxArln7TjbYur6ni0-QqCTiF"
+      "yoodkkaa.wordpress.com",
+	    "captinmajedse5"
     ]
   }
 ]
