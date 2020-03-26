@@ -261,10 +261,11 @@
   },
   {
     "title":"جزيرة الكنز",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/24.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC9fqLuYYICrt55MAWZz1Mp"
+      "yoodkkaa.wordpress.com",
+      "jazerakanz"
     ]
   },
   {
@@ -326,10 +327,11 @@
   },
   {
     "title":"الشجعان الثلاثة",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/44.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCoQdChrJMN2rj3pCvb_kje"
+      "yoodkkaa.wordpress.com",
+      "shoj3anthalatha"
     ]
   },
   {
@@ -383,10 +385,11 @@
   },
   {
     "title":"شعلة ريكا",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/131.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAYu7RhVV2mDhCzXjgyTBdi"
+      "yoodkkaa.wordpress.com",
+      "sho3ltreka"
     ]
   },
   {
