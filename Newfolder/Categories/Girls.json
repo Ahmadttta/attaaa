@@ -202,12 +202,15 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/lubna/lubna.json"
     ]
   },
-  {
+
+	
+	  {
     "title":"ايميلي فتاة الرياح",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/81.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAvoYawsVvB7WmdYSxU4Do6"
+      "toodkkaa.wordpress.com",
+      "emeley"
     ]
   },
 
