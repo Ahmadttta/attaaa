@@ -1,20 +1,22 @@
 [
   {
     "title":"هايدي الأصلي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/10.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC4lDBH1zcVEB2HuESqM2qk"
+            "yoodkkaa.wordpress.com",
+	  "HidiOriginal"
     ]
   },
   
   
     {
     "title":"هايدي - من قناة جيم",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/10.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAnS0354dukZwp8jemo30bF"
+            "yoodkkaa.wordpress.com",
+	  "HidiNew"
     ]
   }
   
