@@ -25,5 +25,25 @@
       "toodkkaa.wordpress.com",
 	  "abtalar3"
     ]
+  },
+	
+    {
+    "title":"الجزء الرابع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/76.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "abtalar4"
+    ]
+  },
+
+    {
+    "title":"الجزء الخامس الفرسان",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-1133.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "abtalar5"
+    ]
   }
 ]
