@@ -1,18 +1,20 @@
 [
   {
     "title":"الجزء الأول",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/167.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDeJOyg5XhMVM4lJA86KSrp"
+      "yoodkkaa.wordpress.com",
+	  "AlahlamAlDahabia1"
     ]
   },
     {
     "title":"الجزء الثاني",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/167.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxD7c6kJTMqyCplMxeVLEuB5"
+           "yoodkkaa.wordpress.com",
+	  "AlahlamAlDahabia1"
     ]
   }
 ]
