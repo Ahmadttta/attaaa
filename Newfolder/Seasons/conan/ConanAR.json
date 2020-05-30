@@ -71,13 +71,22 @@
 	  "conans8"
     ]
   },
+	    {
+    "title":"الجزء التاسع",
+    "provider":"wordpress",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+	  "conaS9"
+    ]
+  },
     {
     "title":"أفلام المحقق كونان",
     "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
-	  "conanmov"
+	  "ConanFullMovie"
     ]
   } 
 ]
