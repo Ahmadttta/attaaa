@@ -22,10 +22,11 @@
   },
   {
     "title":"السنافر",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/157.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDLw4HdmCaId88MjvSyaTrN"
+      "yoodkkaa.wordpress.com",
+      "AlSanafer"
     ]
   },
 

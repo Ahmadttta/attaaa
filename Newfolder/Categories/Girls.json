@@ -267,26 +267,29 @@
   },
   {
     "title":"فلونة",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/99.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBD7xJhzNR-K-bDpuxxMnA6"
+      "yoodkkaa.wordpress.com",
+      "Flona"
     ]
   },
   {
     "title":"فتاة المراعي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/100.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDCEbdrT5F7IbW2X8MM8hOq"
+      "yoodkkaa.wordpress.com",
+      "FtatAlmara3i"
     ]
   },
   {
     "title":"لوسي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/101.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAHqLUkEBMuUE0Z3Mc79QAz"
+      "yoodkkaa.wordpress.com",
+      "Lusy"
     ]
   },
   {
@@ -349,10 +352,11 @@
 
   {
     "title":"دريلاند",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/153.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC7C0pXYmaS5CrqOyR5sGB1"
+      "yoodkkaa.wordpress.com",
+      "Driland"
     ]
   },
   {
@@ -427,10 +431,11 @@
   },
   {
     "title":"البؤساء",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/43.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDHhkQyGG-4U60miKaWh1v2"
+      "yoodkkaa.wordpress.com",
+      "Albo2sa2"
     ]
   },
     {

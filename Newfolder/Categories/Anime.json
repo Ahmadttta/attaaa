@@ -209,10 +209,11 @@
 
   {
     "title":"دريلاند",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/153.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxC7C0pXYmaS5CrqOyR5sGB1"
+      "yoodkkaa.wordpress.com",
+      "Driland"
     ]
   },
   {
@@ -252,10 +253,11 @@
 
   {
     "title":"البؤساء",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/43.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDHhkQyGG-4U60miKaWh1v2"
+      "yoodkkaa.wordpress.com",
+      "Albo2sa2"
     ]
   },
 
