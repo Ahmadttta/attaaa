@@ -74,10 +74,11 @@
   },
   {
     "title":"لوز وسكر",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/132.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCpRxi04X_AGBVBCsDJ7ZHX"
+      "yoodkkaa.wordpress.com",
+      "LozWSukar"
     ]
   },
   {
@@ -181,10 +182,11 @@
 
   {
     "title":"كان يا ما كان الحياة",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/135.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDrkJ4a-Y-4TjY5_LbaNzfs"
+      "yoodkkaa.wordpress.com",
+      "KanYamaKanAlhyat"
     ]
   },
   {

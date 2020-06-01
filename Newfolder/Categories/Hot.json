@@ -311,12 +311,12 @@
     ]
   },
   
-  {
+{
     "title":"السراب",
-    "provider":"youtube",
+    "provider":"overview",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/78.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBoqa1ng5Qqb69gG57qGCJu"
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/alsarab/alsarab.json"
     ]
   },
   {
@@ -494,10 +494,11 @@
 
   {
     "title":"توم سوير",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/121.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBnw-0akiSLF6vMNVMVLOwp"
+      "yoodkkaa.wordpress.com",
+      "TomSwer"
     ]
   },
   {

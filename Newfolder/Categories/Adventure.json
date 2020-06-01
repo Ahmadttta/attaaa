@@ -132,10 +132,11 @@
   },
   {
     "title":"توم سوير",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/121.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBnw-0akiSLF6vMNVMVLOwp"
+      "yoodkkaa.wordpress.com",
+      "TomSwer"
     ]
   },
   {
@@ -322,18 +323,20 @@
   },
   {
     "title":"قرية التوت",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/66.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxBJt68qTQnYKYHoe3m5JmPp"
+      "yoodkkaa.wordpress.com",
+      "QaretAltot"
     ]
   },
   {
     "title":"الطاقة الزرقاء",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/69.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCG4fjs9byZCqXu974LmSu_"
+      "yoodkkaa.wordpress.com",
+      "AltaqaAlZrqa2"
     ]
   },
   {
@@ -379,10 +382,11 @@
   },
   {
     "title":"مغامرات نيلز",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/102.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAfRWdL_gsvGwz8RvEgFlgx"
+      "yoodkkaa.wordpress.com",
+      "Niles"
     ]
   },
   {
@@ -444,18 +448,20 @@
   },
   {
     "title":"لوز وسكر",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/132.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCpRxi04X_AGBVBCsDJ7ZHX"
+      "yoodkkaa.wordpress.com",
+      "LozWSukar"
     ]
   },
   {
     "title":"كان يا ما كان الحياة",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/135.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDrkJ4a-Y-4TjY5_LbaNzfs"
+      "yoodkkaa.wordpress.com",
+      "KanYamaKanAlhyat"
     ]
   },
   {

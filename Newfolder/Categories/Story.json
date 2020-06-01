@@ -11,18 +11,20 @@
   },
   {
     "title":"حكايات ما أحلاها",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/2.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCPM223MWEEDBcVEpt2wNNY"
+      "yoodkkaa.wordpress.com",
+      "HkayatMaA7laha"
     ]
   },
   {
     "title":"حكايات لا تنسى",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/3.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxD9pSBuro1OaKDvqgnHRx09"
+      "yoodkkaa.wordpress.com",
+      "HkayatLaTunsa"
     ]
   },
   {

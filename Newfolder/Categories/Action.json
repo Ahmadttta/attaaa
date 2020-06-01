@@ -303,10 +303,11 @@
 
   {
     "title":"ساسوكي",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/82.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxDFqYxWlg6QdvhnG4nGotyR"
+      "yoodkkaa.wordpress.com",
+      "Sasuki"
     ]
   },
   {
@@ -352,10 +353,11 @@
   },
   {
     "title":"مدرسة الكونغ فو",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/113.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxAoyZ5TAZHKoJL9yASRgS-8"
+      "yoodkkaa.wordpress.com",
+      "MadrastKungfu"
     ]
   },
   {
@@ -475,10 +477,11 @@
   },
   {
     "title":"الماسة الزرقاء",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/37.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCM-4Sj86Hxs2qP6zxXv6gh"
+      "yoodkkaa.wordpress.com",
+      "MasaZarqa"
     ]
   },
 
@@ -516,10 +519,11 @@
 
   {
     "title":"الطاقة الزرقاء",
-    "provider":"youtube",
+    "provider":"wordpress",
     "image":"https://toodkkaa.files.wordpress.com/2017/06/69.jpg",
     "arguments":[
-      "PL1ZJrJNFKyxCG4fjs9byZCqXu974LmSu_"
+      "yoodkkaa.wordpress.com",
+      "AltaqaAlZrqa2"
     ]
   },
 
