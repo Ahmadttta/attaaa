@@ -9,6 +9,16 @@
     ]
   },
   
+  
+  	{
+    "title":"كابتن تسوباسا",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-13aa.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/CaptinTsupasa/CaptinTsupasa.json"
+    ]
+  },
+  
   {
     "title":"سلام دانك",
     "provider":"overview",
@@ -36,6 +46,15 @@
     ]
   },
 
+	{
+    "title":"بي باتل",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-12aa.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/BeBattleBrust/BeBattleBrust.json"
+    ]
+  },
+  
   {
     "title":"الهداف - الكابتن رامي",
     "provider":"youtube",
