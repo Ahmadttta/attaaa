@@ -49,6 +49,15 @@
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/conan/ConanAR.json"
     ]
   },
+	
+		{
+    "title":"ماجيك كايتو",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-14aa.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/MagicKaitoKid/MagicKaitoKid.json"
+    ]
+  },
 
 {
     "title":"القناص",
