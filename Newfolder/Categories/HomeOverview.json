@@ -11,6 +11,15 @@
     ]
   },
 
+	{
+    "title":"ماجيك كايتو",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-14aa.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/MagicKaitoKid/MagicKaitoKid.json"
+    ]
+  },
+  
 {
     "title":"القناص",
     "provider":"overview",
@@ -306,6 +315,14 @@
     ]
   },
 
+	{
+    "title":"بي باتل",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-12aa.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/BeBattleBrust/BeBattleBrust.json"
+    ]
+  },
 
 
   {
@@ -1744,6 +1761,15 @@
     "image":"https://toodkkaa.files.wordpress.com/2017/06/171.jpg",
     "arguments":[
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/Captinmajed.json"
+    ]
+  },
+  
+  	{
+    "title":"كابتن تسوباسا",
+    "provider":"overview",
+    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-13aa.jpg",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/CaptinTsupasa/CaptinTsupasa.json"
     ]
   },
 
