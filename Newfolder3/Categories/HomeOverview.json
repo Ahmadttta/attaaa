@@ -50,14 +50,7 @@
 	
 
 
-{
-    "title":"القناص",
-    "provider":"overview",
-    "image":"",
-    "arguments":[
-      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/qanas/qanas.json"
-    ]
-  },
+
 	
 
 
@@ -1039,6 +1032,15 @@
     "arguments":[
       "yoodkkaa.wordpress.com",
       "asraralmo7eet"
+    ]
+  },
+  
+  {
+    "title":"القناص",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/qanas/qanas.json"
     ]
   },
   {
