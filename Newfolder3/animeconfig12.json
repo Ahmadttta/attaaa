@@ -1,121 +1,37 @@
 [
   {
-    "title":"قصص المجموعة الأولى",
-    "drawable":"",
-    "submenu":"قصص الاطفال",
+    "title":"الرئيسية",
+    "drawable":"ic_home",
+    "submenu":"التصنيفات",
     "iap":false,
     "tabs":[
       {
-        "title":"Recent Posts",
-        "provider":"wordpress",
+        "title":"Categories",
+        "provider":"overview",
         "arguments":[
-          "koralifeblog.wordpress.com",
-          "story1"
-
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder3/Categories/HomeOverview.json"
         ]
       }
-
     ]
   },
-  
-    {
-    "title":"قصص المجموعة الرابعة",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story2"
 
-        ]
-      }
+   
 
-    ]
-  },
-  
-    {
-    "title":"قصص وعبر",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story3"
-
-        ]
-      }
-
-    ]
-  },
-  
-    {
-    "title":"قصص المجموعة الخامسة",
-    "drawable":"",
-    "submenu":"قصص الاطفال",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story1"
-
-        ]
-      }
-
-    ]
-  },
-  
 
 
   {
-    "title":"قصص المجموعة الثانية",
-    "drawable":"",
-    "submenu":"",
+    "title":"التقييم والطلبات",
+    "drawable":"ic_rate",
+    "submenu":"التواصل معنا والتقييم",
     "iap":false,
     "tabs":[
       {
-        "title":"Recent Posts",
-        "provider":"wordpress",
+        "title":"التقييم وطلب الكرتون",
+        "provider":"overview",
         "arguments":[
-          "koralifeblog.wordpress.com",
-          "story2"
-
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder3/Categories/Settings.json"
         ]
       }
-
-    ]
-  },
-  
-  
-      {
-    "title":"قصص المجموعة الثالثة",
-    "drawable":"",
-    "submenu":"",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Recent Posts",
-        "provider":"wordpress",
-        "arguments":[
-          "koralifeblog.wordpress.com",
-          "story3"
-
-        ]
-      }
-
     ]
   }
-  
-  
-
 ]
