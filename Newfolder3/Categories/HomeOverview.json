@@ -1572,6 +1572,25 @@
       "labiba"
     ]
   },
+	
+	    {
+    "title":"بي بليد",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/bebleed/bebleed.json"
+    ]
+  },
+
+	{
+    "title":"بي باتل",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/BeBattleBrust/BeBattleBrust.json"
+    ]
+  },
+
   {
     "title":"الرحالة الصغير",
     "provider":"wordpress",
