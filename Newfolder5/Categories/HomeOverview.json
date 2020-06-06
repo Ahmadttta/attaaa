@@ -18,23 +18,7 @@
     ]
   },
   
-  {
-    "title":"القناص",
-    "provider":"overview",
-    "image":"",
-    "arguments":[
-      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/qanas/qanas.json"
-    ]
-  },
-  {
-    "title":"فلونة",
-    "provider":"wordpress",
-    "image":"",
-    "arguments":[
-      "yoodkkaa.wordpress.com",
-      "Flona"
-    ]
-  },
+
   
   {
     "title":"مغامرات نور",
@@ -55,15 +39,7 @@
 
 
 
-  {
-    "title":"انا وأخي",
-    "provider":"wordpress",
-    "image":"",
-     "arguments":[ 
- 	 "yoodkkaa.wordpress.com",
-      "anawakhy"
-    ]
-  },
+
     {
     "title":"نساء صغيرات",
     "provider":"youtube",
@@ -785,7 +761,23 @@
       "horofsukar"
     ]
   },
-	
+	  {
+    "title":"القناص",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/qanas/qanas.json"
+    ]
+  },
+  {
+    "title":"فلونة",
+    "provider":"wordpress",
+    "image":"",
+    "arguments":[
+      "yoodkkaa.wordpress.com",
+      "Flona"
+    ]
+  },
   {
     "title":"فرقة الفرسان",
     "provider":"youtube",
@@ -1245,7 +1237,15 @@
     ]
   },
 
-	
+	  {
+    "title":"انا وأخي",
+    "provider":"wordpress",
+    "image":"",
+     "arguments":[ 
+ 	 "yoodkkaa.wordpress.com",
+      "anawakhy"
+    ]
+  },
 	    {
     "title":"هايدي",
     "provider":"overview",
