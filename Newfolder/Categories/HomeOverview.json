@@ -246,7 +246,7 @@
   {
     "title":"القناع",
     "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/202.jpg",
+    "image":"",
     "arguments":[
       "toodkkaa.wordpress.com",
       "qenaa"
@@ -257,7 +257,7 @@
   {
     "title":"ال بي اكس - LBX",
     "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/218.jpg",
+    "image":"",
     "arguments":[
       "toodkkaa.wordpress.com",
       "llbbxx"
@@ -270,7 +270,7 @@
 		  {
     "title":"داي الشجاع",
     "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/11/194.jpg",
+    "image":"",
     "arguments":[
       "toodkkaa.wordpress.com",
       "dayyshoga"
@@ -299,7 +299,7 @@
   {
     "title":"جزيرة الكنز",
     "provider":"wordpress",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/24.jpg",
+    "image":"",
     "arguments":[
       "yoodkkaa.wordpress.com",
       "jazerakanz"
@@ -309,7 +309,7 @@
 	{
     "title":"بي بليد",
     "provider":"overview",
-    "image":"https://toodkkaa.files.wordpress.com/2017/12/214.jpg",
+    "image":"",
     "arguments":[
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/bebleed/bebleed.json"
     ]
@@ -318,7 +318,7 @@
 	{
     "title":"بي باتل",
     "provider":"overview",
-    "image":"https://toodkkaa.files.wordpress.com/2020/05/artboard-12aa.jpg",
+    "image":"",
     "arguments":[
       "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Seasons/BeBattleBrust/BeBattleBrust.json"
     ]
