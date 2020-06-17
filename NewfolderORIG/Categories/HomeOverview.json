@@ -2,7 +2,7 @@
   
 	
 	{
-    "title":"تحديث التطبيق من هنا .. يجب الانتقال الى التطبيق الجديد",
+    "title":"تحديث التطبيق هنا .. يجب الانتقال الى التطبيق الجديد",
     "provider":"custom",
     "image":"https://lh3.googleusercontent.com/qnITAzMpCyt3uRaiPmcQ1yCTMO5GFIXwlH-1BpBBkYq6kE7hHJoiY4ClH0lJpmY2e2fm=s180-rw",
     "arguments":[
@@ -11,14 +11,7 @@
     ]
   },
 	
-	  {
-    "title":"حكايات عالمية",
-    "provider":"youtube",
-    "image":"https://toodkkaa.files.wordpress.com/2017/06/1.jpg",
-    "arguments":[
-      "PL1ZJrJNFKyxAF1XhoCPmeYytH9WXdIZzQ"
-    ]
-  },
+
 	
 
     {
