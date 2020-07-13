@@ -2,7 +2,7 @@
   {
     "title":"الجزء الأول",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans1"
@@ -11,7 +11,7 @@
     {
     "title":"الجزء الثاني",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans2"
@@ -20,7 +20,7 @@
     {
     "title":"الجزء الثالث",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans3"
@@ -29,7 +29,7 @@
     {
     "title":"الجزء الرابع",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans4"
@@ -38,7 +38,7 @@
     {
     "title":"الجزء الخامس",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans5"
@@ -47,7 +47,7 @@
      {
     "title":"الجزء السادس",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans6"
@@ -56,7 +56,7 @@
     {
     "title":"الجزء السابع",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans7"
@@ -65,13 +65,13 @@
     {
     "title":"الجزء الثامن",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "conans8"
     ]
   },
-	    {
+   {
     "title":"الجزء التاسع",
     "provider":"wordpress",
     "image":"",
@@ -83,7 +83,7 @@
     {
     "title":"أفلام المحقق كونان",
     "provider":"wordpress",
-    "image":"",
+    "image":"https://toodkkaa.files.wordpress.com/2017/06/178.jpg",
     "arguments":[
       "toodkkaa.wordpress.com",
 	  "ConanFullMovie"
