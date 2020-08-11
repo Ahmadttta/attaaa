@@ -1,4 +1,8 @@
+
 [
+ 
+  
+ 
   {
     "title":"الرئيسية",
     "drawable":"ic_home",
@@ -9,29 +13,11 @@
         "title":"Categories",
         "provider":"overview",
         "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder3/Categories/HomeOverview.json"
-        ]
-      }
-    ]
-  },
-
-   
-
-
-
-  {
-    "title":"التقييم والطلبات",
-    "drawable":"ic_rate",
-    "submenu":"التواصل معنا والتقييم",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"التقييم وطلب الكرتون",
-        "provider":"overview",
-        "arguments":[
-          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder3/Categories/Settings.json"
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/New%20folder%20(13)/update3.json"
         ]
       }
     ]
   }
+  
+  
 ]
