@@ -15,7 +15,21 @@
     ]
   },
 
-
+  {
+    "title":"مـمـيّـز",
+    "drawable":"ic_hot",
+    "submenu":"",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/Ahmadttta/attaaa/master/Newfolder/Categories/Hot.json"
+        ]
+      }
+    ]
+  },
 
   {
     "title":"إنـمـي",
