@@ -17,5 +17,16 @@
       "https://policies.google.com/privacy",
       "url"
     ]
+  },
+
+    
+    {
+    "title":"شروط الاستخدام",
+    "provider":"wordpress",
+    "image":"",
+    "arguments":[
+      "toodkkaa.wordpress.com",
+      "terms"
+    ]
   }
 ]
